@@ -1,0 +1,3 @@
+没有规格书的，参看相关网站链接
+	NodeMCU-32S(没有规格书):http://wiki.ai-thinker.com/esp32/boards/nodemcu_32s
+	ESP32-Audio-kit:http://wiki.ai-thinker.com/esp32-audio-kit
